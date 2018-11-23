@@ -29,7 +29,7 @@
 
 	//Main Database Connection Variables
 	$db_Host     = "localhost";
-	$db_User     = "root";
+	$db_User     = "";
 	$db_Password = "";
 	$db_Name     = "accra_bootcamp";
 ?>
